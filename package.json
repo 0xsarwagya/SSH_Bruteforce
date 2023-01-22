@@ -1,0 +1,20 @@
+{
+  "name": "ssh_bruteforce",
+  "version": "1.0.0",
+  "description": "This script attempts to brute force the password for a given SSH username on a target IP address using a provided password file.",
+  "main": "ssh_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xsarwagya/SSH_Bruteforce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xsarwagya/SSH_Bruteforce/issues"
+  },
+  "homepage": "https://github.com/0xsarwagya/SSH_Bruteforce#readme"
+}
